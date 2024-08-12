@@ -7,3 +7,7 @@ HOLA ESTA ES UNA PRUEBA QUE SE PUEDE POR LINUX...
 
 ATT: JHOANETWORK
 
+
+Hola el cambio de aca es desde mi pc local....
+
+att: JHOANETWORK desde visual studio.
